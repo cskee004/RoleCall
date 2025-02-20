@@ -26,7 +26,7 @@ RoleCall is a cross-platform application designed to help players and Game Maste
 
 ### DevOps and Deployment
 - Managed API documentation and version control using GitHub.
-- Authored the user manual for the Create Listing interface.
+- Authored the [user manual](https://github.com/WyattCake1/CS411Silver/wiki/5.2-Listings) for the Create Listing interface.
 
 ## Tech Stack
 - **Frontend:** Java
